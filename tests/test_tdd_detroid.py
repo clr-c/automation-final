@@ -4,7 +4,6 @@ import cv2
 import numpy as np
 import mss
 import pytest
-from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
