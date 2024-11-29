@@ -1,7 +1,7 @@
-gi# Selenium-Python-Example
+# Final Automation Exercise
+## Automating Web College Manager with Pytest and Selenium
 
-This repository contains the base setup of an UI testing project,
-using Python, Selenium Webdriver and Page Object Model pattern.
+In this final exercise, we focus on automating the testing process for the [Web College Manager](<https://tdd-detroid.onrender.com/>) application using Pytest and Selenium. This project demonstrates how to efficiently test a web application, ensuring its functionality and performance meet the required standards.
 
 # Requirements
 
@@ -28,4 +28,4 @@ By default, tests will be executed in Chrome.
 
 # Results
 
-To check the recordings, open the '/results/recordings/test_recording.mp4' file once the execution has finished.
+To check the recordings, open the '/recordings/test_recording.mp4' file once the execution has finished.
