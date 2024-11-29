@@ -13,7 +13,7 @@ In this final exercise, we focus on automating the testing process for the [Web 
 
 1. Download or clone the repository 
 2. Open a terminal
-3. Go to the project root directory "/python_testing_automation/".
+3. Go to the project root directory "/tdd_detroid_pytest/".
 4. Create a virtual environment: `py -m venv venv`
 5. Activate the virtual environment executing the following script: `.\venv\Scripts\activate`
 
